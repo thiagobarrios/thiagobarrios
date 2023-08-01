@@ -1,3 +1,4 @@
+-BEGIN HEADER-
 NASA/POWER CERES/MERRA2 Native Resolution Monthly and Annual 
 Dates (month/day/year): 01/01/2011 through 12/31/2021 
 Location: Latitude  -9.3822   Longitude -38.0007 
@@ -15,8 +16,8 @@ ALLSKY_SFC_SW_DWN        Irradiância descendente de ondas curtas em toda a supe
 CLRSKY_SFC_SW_DWN        Irradiância descendente de ondas curtas de superfície de céu claro (kW-hr/m^2/day) 
 ALLSKY_SFC_PAR_TOT       PAR total da superfície do céu (W/m^2) 
 ALLSKY_SFC_SW_DIFF       Irradiância difusa de ondas curtas da superfície de todo o céu (kW-hr/m^2/day) 
-CLRSKY_SFC_PAR_TOT       PAR total de superfície de céu claro (W/m^2)
-
+CLRSKY_SFC_PAR_TOT       PAR total de superfície de céu claro (W/m^2) 
+-END HEADER-
 PARAMETER,YEAR,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,ANN
 ALLSKY_KT,2011,0.58,0.52,0.61,0.59,0.48,0.56,0.55,0.62,0.57,0.56,0.56,0.62,0.57
 ALLSKY_KT,2012,0.57,0.57,0.64,0.65,0.59,0.57,0.54,0.58,0.62,0.6,0.6,0.62,0.59
