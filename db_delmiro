@@ -18,7 +18,7 @@ ALLSKY_SFC_PAR_TOT       PAR total da superfície do céu (W/m^2)
 ALLSKY_SFC_SW_DIFF       Irradiância difusa de ondas curtas da superfície de todo o céu (kW-hr/m^2/dia) 
 CLRSKY_SFC_PAR_TOT       PAR total de superfície de céu claro (W/m^2) 
 -END HEADER-
-PARAMETERO,ANO,JAN,FEV,MAR,ABR,MAI,JUN,JUL,AGO,SET,OUT,NOV,DEZ,ANUAL
+PARAMETRO,ANO,JAN,FEV,MAR,ABR,MAI,JUN,JUL,AGO,SET,OUT,NOV,DEZ,ANUAL
 Índice de Clareza de Insolação de todo o Céu,2011,0.58,0.52,0.61,0.59,0.48,0.56,0.55,0.62,0.57,0.56,0.56,0.62,0.57
 Índice de Clareza de Insolação de todo o Céu,2012,0.57,0.57,0.64,0.65,0.59,0.57,0.54,0.58,0.62,0.6,0.6,0.62,0.59
 Índice de Clareza de Insolação de todo o Céu,2013,0.56,0.6,0.59,0.59,0.55,0.58,0.57,0.55,0.61,0.62,0.56,0.59,0.58
