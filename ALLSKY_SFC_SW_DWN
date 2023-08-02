@@ -1,12 +1,12 @@
-YEAR,MED
-2011,5.62
-2012,5.89
-2013,5.73
-2014,5.61
-2015,5.97
-2016,5.8
-2017,5.53
-2018,5.81
-2019,5.99
-2020,5.68
-2021,5.58
+PARAM,YEAR,MED
+Irradiância descendente de ondas curtas em toda a superfície do céu (kW-hr/m^2/day),2011,5.62
+Irradiância descendente de ondas curtas em toda a superfície do céu (kW-hr/m^2/day),2012,5.89
+Irradiância descendente de ondas curtas em toda a superfície do céu (kW-hr/m^2/day),2013,5.73
+Irradiância descendente de ondas curtas em toda a superfície do céu (kW-hr/m^2/day),2014,5.61
+Irradiância descendente de ondas curtas em toda a superfície do céu (kW-hr/m^2/day),2015,5.97
+Irradiância descendente de ondas curtas em toda a superfície do céu (kW-hr/m^2/day),2016,5.8
+Irradiância descendente de ondas curtas em toda a superfície do céu (kW-hr/m^2/day),2017,5.53
+Irradiância descendente de ondas curtas em toda a superfície do céu (kW-hr/m^2/day),2018,5.81
+Irradiância descendente de ondas curtas em toda a superfície do céu (kW-hr/m^2/day),2019,5.99
+Irradiância descendente de ondas curtas em toda a superfície do céu (kW-hr/m^2/day),2020,5.68
+Irradiância descendente de ondas curtas em toda a superfície do céu (kW-hr/m^2/day),2021,5.58
