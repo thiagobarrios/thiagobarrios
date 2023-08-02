@@ -1,12 +1,12 @@
-YEAR,MED
-2011,15.52
-2012,16.13
-2013,15.84
-2014,15.65
-2015,16.48
-2016,16.01
-2017,15.38
-2018,15.96
-2019,16.38
-2020,15.66
-2021,15.41
+PARAM,YEAR,MED
+Irradiância UVA de toda a superfície do céu (W/m^2),2011,15.52
+Irradiância UVA de toda a superfície do céu (W/m^2),2012,16.13
+Irradiância UVA de toda a superfície do céu (W/m^2),2013,15.84
+Irradiância UVA de toda a superfície do céu (W/m^2),2014,15.65
+Irradiância UVA de toda a superfície do céu (W/m^2),2015,16.48
+Irradiância UVA de toda a superfície do céu (W/m^2),2016,16.01
+Irradiância UVA de toda a superfície do céu (W/m^2),2017,15.38
+Irradiância UVA de toda a superfície do céu (W/m^2),2018,15.96
+Irradiância UVA de toda a superfície do céu (W/m^2),2019,16.38
+Irradiância UVA de toda a superfície do céu (W/m^2),2020,15.66
+Irradiância UVA de toda a superfície do céu (W/m^2),2021,15.41
